@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FaceMaker</string>
+    <string name="redSeekBar">R:</string>
+    <string-array name="hairstyles">
+        <item>Simple Hair</item>
+        <item>Grandpa</item>
+        <item>Comb Over</item>
+    </string-array>
+    <string name="blueSeekBar">B:</string>
+    <string name="greenSeekBar">G:</string>
+    <string name="randomFaceButton">Random Face</string>
+    <string name="radioEyes">Eyes</string>
+    <string name="radioSkin">Skin</string>
+    <string name="radioHair">Hair</string>
+    <string name="hairStyle">Hair Styles:</string>
+</resources>
